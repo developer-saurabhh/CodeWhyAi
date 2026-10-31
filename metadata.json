@@ -1,0 +1,6 @@
+{
+  "name": "CodeWhy AI",
+  "description": "AI-powered developer tool explaining the story and reasoning behind code decisions using knowledge graphs and GitHub history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
